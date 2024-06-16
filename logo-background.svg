@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)" viewBox="0 0 512 512">
+    <path inkscape:label="Background" fill="#146fc7" d="M0 0h512v512H0z"/>
+    <g inkscape:label="House">
+        <path inkscape:label="Top" fill="#ffe8b6" d="m261 258 1 221 192-335L262 31Z"/>
+        <path inkscape:label="Right" fill="#d8c392" d="m70 370 192 109 192-109V144Z"/>
+        <g inkscape:label="Chimney">
+            <path inkscape:label="Top" fill="#8e031b" d="m331 48 35 120 35-120-35-22Z"/>
+            <path inkscape:label="Right" fill="#630f1c" d="m331 90 35 78 35-21V48Z"/>
+            <path inkscape:label="Left" fill="#710e1f" d="m331 48 35 21v99l-35-21z"/>
+        </g>
+        <g inkscape:label="Window" fill="#5db0ff">
+            <path inkscape:label="Top Right" d="M327 285v40l35-20v-40z"/>
+            <path inkscape:label="Bottom Right" d="M327 334v41l35-20v-41z"/>
+            <path inkscape:label="Top Left" d="M284 309v41l35-20v-41z"/>
+            <path inkscape:label="Bottom Left" d="M284 358v41l35-20v-41z"/>
+        </g>
+        <path inkscape:label="Door" fill="#a4614e" d="M385 256v153.2l56-31.8V225Z"/>
+    </g>
+    <g inkscape:label="Crate">
+        <path inkscape:label="Back" fill="#613a11" d="m70 144 192 113v222L70 370Z"/>
+        <path inkscape:label="Inner Top" fill="#7d5325" d="m81 353-15 10 175 110v-25Z"/>
+        <path inkscape:label="Inner Right" fill="#644320" d="m91 160-21 20v177l7 5 12-5z"/>
+        <path inkscape:label="Top" fill="#9a672f" d="m70 144-12 7 20 35 152 90v176l32 27V31Z"/>
+        <path inkscape:label="Right" fill="#785026" d="m262 257-33 20 2 176 18 33 13-7z"/>
+        <g inkscape:label="Cross">
+            <path inkscape:label="Top" fill="#7d5325" d="m98 200 131 263 12-15-131-253Z"/>
+            <path inkscape:label="Front" fill="#8e5f2b" d="m76 187 21 11 133 257-20-10z"/>
+        </g>
+        <path inkscape:label="Front" fill="#8e5f2b" d="M58 151v221l191 114-1-220.5zm19 37 152 89v176L77 362Z"/>
+    </g>
+</svg>

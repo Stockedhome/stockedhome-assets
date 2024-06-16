@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)" viewBox="0 0 512 512">
+   <g inkscape:label="House">
+     <path inkscape:label="Top" fill="#e9e9e9" d="m262 31-1 227 1 221 65-113.41211V334l26.91992-15.38281 7.67188-13.38477L327 325v-40l35-20v39.52148L454 144Zm57 258v41l-35 20v-41zm0 49v41l-35 20v-41z"/>
+     <path inkscape:label="Right" fill="#c4c4c4" d="M454 144 262 257v222l192-109Zm-92 121v40l-35 20v-40zm-43 24v41l-35 20v-41zm43 25v41l-35 20v-41zm-43 24v41l-35 20v-41z"/>
+     <g inkscape:label="Chimney">
+       <path inkscape:label="Top" fill="#707070" d="m331 48 35 120 35-120-35-22Z"/>
+       <path inkscape:label="Right" fill="#575757" d="m331 90 35 78 35-21V48Z"/>
+       <path inkscape:label="Left" fill="#676767" d="m331 48 35 21v99l-35-21z"/>
+     </g>
+     <path inkscape:label="Door" fill="#575757" d="M385 256v153.2l56-31.8V225Z"/>
+   </g>
+   <g inkscape:label="Crate">
+     <path inkscape:label="Inner Top" fill="#5a5a5a" d="m81 353-15 10 175 110v-25Z"/>
+     <path inkscape:label="Inner Right" fill="#494949" d="m91 160-21 20v177l7 5 12-5z"/>
+     <path inkscape:label="Top" fill="#707070" d="m70 144-12 7 20 35 152 90v176l32 27V31Z"/>
+     <path inkscape:label="Right" fill="#575757" d="m262 257-33 20 2 176 18 33 13-7z"/>
+     <g inkscape:label="Cross">
+       <path inkscape:label="Top" fill="#5a5a5a" d="m98 200 131 263 12-15-131-253Z"/>
+       <path inkscape:label="Front" fill="#676767" d="m76 187 21 11 133 257-20-10z"/>
+     </g>
+     <path inkscape:label="Front" fill="#676767" d="M58 151v221l191 114-1-220.5zm19 37 152 89v176L77 362Z"/>
+   </g>
+ </svg>
